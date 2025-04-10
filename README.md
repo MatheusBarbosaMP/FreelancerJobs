@@ -35,6 +35,73 @@ FreelancerJobs/
    ```bash
    git clone https://github.com/MatheusBarbosaMP/FreelancerJobsAPI.git
 
+---
+
+🚀 Backend - API REST (C# .NET)
+
+### 🔧 Requisitos
+
+- [.NET SDK](https://dotnet.microsoft.com/en-us/download)
+- Banco de dados: SQLite
+
+### ▶️ Como rodar
+
+1. Navegue até a pasta da API:
+
+cd PastaBackend/APIREST-Projeto/FreelancerJobsAPI
+Execute o projeto:
+
+Copiar
+Editar
+dotnet run
+Acesse no navegador:
+
+Copiar
+Editar
+http://localhost:5212/swagger
+📘 Documentação Swagger
+A API está documentada automaticamente com o Swagger UI, permitindo testar todos os endpoints diretamente do navegador.
+
+Você pode:
+
+Ver todos os endpoints disponíveis
+
+Testar requisições GET, POST, PUT, DELETE
+
+Visualizar os esquemas de request e response
+
+🌐 Frontend - Angular
+🔧 Requisitos
+Node.js e npm
+
+Angular CLI:
+
+Copiar
+Editar
+npm install -g @angular/cli
+
+▶️ Como rodar
+Navegue até a pasta do frontend:
+
+Copiar
+Editar
+cd PastaFrontend/freelancer-jobs
+Instale as dependências:
+
+Copiar
+Editar
+npm install
+Inicie o servidor de desenvolvimento:
+
+Copiar
+Editar
+ng serve
+Acesse no navegador:
+
+Copiar
+Editar
+http://localhost:4200
+
 🎨 Protótipo no Figma
 🔗 Link para o protótipo no Figma
 
