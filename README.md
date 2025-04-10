@@ -13,7 +13,9 @@ Sistema completo para gerenciamento de projetos freelancers, com autenticação 
 
 ## 🗂️ Estrutura do Projeto
 
-FreelancerJobs/ ├── PastaBackend/ │ └── APIREST-Projeto/ │ └── FreelancerJobsAPI/ # Projeto .NET com API REST ├── PastaFrontend/ │ └── freelancer-jobs/ # Aplicação Angular
+FreelancerJobs/
+├── PastaBackend/ │ └── APIREST-Projeto/ │ └── FreelancerJobsAPI/ # Projeto .NET com API REST
+├── PastaFrontend/ │ └── freelancer-jobs/ # Aplicação Angular
 
 
 ## 🔌 Endpoints da API
